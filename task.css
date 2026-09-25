@@ -1,0 +1,152 @@
+header h1{
+    text-align: center;
+    color:white;
+}
+nav{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:100px;
+    
+}
+nav a{
+    text-decoration: none;
+    display: flex;
+    font-size: 20px;
+    color:white;
+}
+nav a:hover{
+    background-color:black;
+    border-radius: 20px;
+    padding:5px;
+}
+.start{
+    text-align: center;
+}
+.banner1{
+    margin-left: 540px;
+}
+.segregation-container table{
+    margin-left: 300px;
+}
+.segregation-container{
+    margin-top: 10px;
+}
+.sizzlin-container{
+    margin-left: 300px;
+    margin-top: 10px;
+}
+.sizzlin-container h2{
+    margin-left: 300px;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+footer div{
+    margin-left: 700px;
+}
+footer .copy{
+    margin-left: 700px;
+}
+.segregation-container img{
+    transition: 0.3s;
+}
+.segregation-container img:hover{
+    transform: scale(1.1);
+}
+.segregation-container h3{
+    text-align: center;
+}
+.sizzlin-container table p{
+      font-size: 15px;
+      font-weight: bold;
+      text-align: center;
+}
+.price{
+    color:red;
+}
+.sizzlin-container button{
+    width: 200px;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: green;
+    color: white;
+}
+.feature{
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.feature h3{
+    font-size: 30px;
+}
+.opensection{
+    background-color: rgb(200, 40, 131);
+}
+.adults1{
+    background-color: rgb(200, 40, 131);
+    padding:5px;
+}
+.adults{
+    text-align: center;
+}
+.adultsec table{
+    text-align: center;
+    margin-left: 300px;
+}
+.table1{
+    margin-top: 20px;
+    margin-left: 600px;
+}
+.adultsec button{
+    padding: 3px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+.adultsec1{
+    margin-left: 100px;
+    text-align: center;
+}
+.adultsec1 button{
+    border-radius: 10px;
+    padding: 5px;
+    background-color: green;
+    color: white;
+}
+.kindly{
+    text-align: center;
+}
+.contacts form{
+     margin-left: 560px;
+     background-color:aqua;
+     width:400px;
+     text-align: center;
+     padding:10px;
+}
+.shops{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    padding:5px;
+}
+.table2{
+    text-align: center;
+}
+.this{
+    background-color: rgb(200, 40, 131);
+    font-size: 20px;
+    text-align: center;
+    color:white;
+}
+.fea{
+    text-align: center;
+
+}
+.features img{
+    margin-left: 600px;
+}
+.fea1{
+    margin-left: 600px;
+}
